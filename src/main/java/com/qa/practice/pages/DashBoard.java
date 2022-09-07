@@ -17,6 +17,7 @@ public class DashBoard extends TestBase2{
 @FindBy(xpath="//p[text()='Wallet Balance']")
      WebElement wallet;
 
+
 WebDriverWait wait =new WebDriverWait(driver, 5);
 
 public DashBoard() {
@@ -31,5 +32,7 @@ public DashBoard() {
 		wait.until(ExpectedConditions.visibilityOf(wallet));
 		return wallet.isDisplayed();
 	}
-	  
+	 
+	
+	
 }

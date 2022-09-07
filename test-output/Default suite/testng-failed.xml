@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.qa.practice.testcases.LoginPageTest">
+      <class name="com.qa.practice.testcases.DashBoardTest">
         <methods>
+          <include name="teardown"/>
           <include name="setup"/>
-          <include name="validLoginAfterTest"/>
-          <include name="TearDown"/>
+          <include name="dashMyProfileTest"/>
         </methods>
-      </class> <!-- com.qa.practice.testcases.LoginPageTest -->
+      </class> <!-- com.qa.practice.testcases.DashBoardTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
