@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-06T23:49:15 EDT" name="Default suite" finished-at="2022-09-06T23:49:25 EDT" duration-ms="10446">
+    <groups>
+    </groups>
+    <test started-at="2022-09-06T23:49:15 EDT" name="Default test" finished-at="2022-09-06T23:49:25 EDT" duration-ms="10446">
+      <class name="com.qa.practice.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:15 EDT" name="setup" finished-at="2022-09-06T23:49:18 EDT" duration-ms="2927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="paymentLogoTest()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:18 EDT" name="paymentLogoTest" finished-at="2022-09-06T23:49:18 EDT" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentLogoTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:18 EDT" name="TearDown" finished-at="2022-09-06T23:49:18 EDT" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:18 EDT" name="setup" finished-at="2022-09-06T23:49:20 EDT" duration-ms="1907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="phpLogoTest()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:20 EDT" name="phpLogoTest" finished-at="2022-09-06T23:49:20 EDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phpLogoTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:20 EDT" name="TearDown" finished-at="2022-09-06T23:49:20 EDT" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:20 EDT" name="setup" finished-at="2022-09-06T23:49:22 EDT" duration-ms="2161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLoginAfterTest()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:22 EDT" name="validLoginAfterTest" finished-at="2022-09-06T23:49:25 EDT" duration-ms="2768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginAfterTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.practice.testcases.LoginPageTest@66d3eec0]" started-at="2022-09-06T23:49:25 EDT" name="TearDown" finished-at="2022-09-06T23:49:25 EDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.practice.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
